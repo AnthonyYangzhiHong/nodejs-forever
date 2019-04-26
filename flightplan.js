@@ -1,8 +1,8 @@
 var plan = require('flightplan');
 
 var appName = 'node-app';
-var username = 'anthony';
-var startFile = 'app.js';
+var username = 'anthonyUpgraded';
+var startFile = 'bin/www';
 
 var tmpDir = appName+'-' + new Date().getTime();
 
